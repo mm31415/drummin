@@ -1,3 +1,10 @@
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background: #DDFDFE;  
+}
+
 #my-canvas {
   border: 5px solid black;
 }
