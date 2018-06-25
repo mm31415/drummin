@@ -2,7 +2,8 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
-  background: #DDFDFE;  
+  background: #DDFDFE;
+  font-family: sans-serif;
 }
 
 #my-canvas {
